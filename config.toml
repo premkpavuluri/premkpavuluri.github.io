@@ -1,4 +1,4 @@
 baseURL = 'https://premkpavuluri.github.io/'
 languageCode = 'en-us'
-title = 'my first site'
+title = "Prem's Blog"
 theme="ananke"

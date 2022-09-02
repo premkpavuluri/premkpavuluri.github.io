@@ -6,4 +6,4 @@ draft: false
 
 I'm feeling really happy to start a blog. To share my daily moments and learnings with people.
 
-I recently got to know about [`HUGO`](https://gohugo.io/) which is a static page generator, Throught which I'm blogging now.
+I recently got to know about [`HUGO`](https://gohugo.io/) which is a static site generator, through which I'm blogging now.
